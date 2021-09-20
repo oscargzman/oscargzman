@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscargzman
 - 👀 I’m interested in designing software
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on VScode
 - 📫 How to reach me: oscargzman77@gmail.com
 
 <!---
